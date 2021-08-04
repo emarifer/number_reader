@@ -23,3 +23,9 @@ For that you can use any server, but here is a way to do it
 - Open a browser and go to http://localhost:8000 (if you have chosen that port)
 
 #### You can also deploy the application on a static file server.
+
+### More info. To see in:
+- <a href="https://github.com/rramosp/2021.deeplearning" target="_blank" rel="noopener noreferrer">Fundamentos de Deep Learning</a>
+- <a href="https://rramosp.github.io/2021.deeplearning/intro.html" target="_blank" rel="noopener noreferrer">Fundamentos de Deep Learning</a>
+- <a href="https://www.youtube.com/playlist?list=PL8ytk70JVz1-YmW2YnFFDMroi_ZSggFgn" target="_blank" rel="noopener noreferrer">Fundamentos de Deep Learning (Youtube)</a>
+- <a href="https://youtu.be/JpE4bYyRADI?t=350" target="_blank" rel="noopener noreferrer">Exportación de este modelo a JS con Tensorflow.js (Youtube)</a>
